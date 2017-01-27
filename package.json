@@ -1,0 +1,22 @@
+{
+  "name": "betty-repo-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Cory Mawhorter",
+    "email": "cory.mawhorter@gmail.com",
+    "url": "http://www.mawhorter.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cmawhorter/betty-repo-demo-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmawhorter/betty-repo-demo-client/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.9.0"
+  }
+}
